@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://volt-direct.online/sitemap.xml
